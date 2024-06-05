@@ -1,4 +1,4 @@
- Hello, I'm Sebastian Ramirez Sandi. I'm an Electrical Engineer and Engineering Professor from Costa Rica with experience in Business and Data Analytics. I'm currently learning to expand my horizons as a developer by making applications to solve real life problems with a data guided approach. This means, I'm learning everything from Python, to JavaScript, to Data Science, etc.
+ Hello, I'm Sebastian Ramirez Sandi. I'm an Electrical Engineer and Engineering Professor from Costa Rica with experience in Business and Data Analytics. I'm currently learning to expand my horizons as a developer by making applications to solve real life problems with a data guided approach. 
 
 - You can find me at the following socials:
 * LinkedIn: [Sebastian Ramirez Sandi](https://www.linkedin.com/in/sebastian-ramirez-sandi-4b2339167/)
